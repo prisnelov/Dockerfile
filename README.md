@@ -1,3 +1,4 @@
 # Dockerfile
--Launching Ubuntu OS in Docker
--Launching Wordpress in it
+- Docker is a Prerequisite.
+- Launching Dockerised.
+- Launching Wfuzz Scanner in it.
